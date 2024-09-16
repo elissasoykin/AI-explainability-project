@@ -9,5 +9,5 @@ https://www.figma.com/file/xgbw92JpwIImAQyeEBcpBi/XAI-METHODS---FLOWCHART?type=d
 https://docs.google.com/spreadsheets/d/1zQbWJIGFFKEVlBFRNDwU2kf1sZtUFoHahSsozEoViOs/edit?usp=sharing
 
 ## Paper
-https://docs.google.com/document/d/1SSTzqpOXLD7xrMZG0MoJwXwVJxjj6M61ZLfGWSAZZ5Q/edit?usp=sharing
+https://docs.google.com/document/d/1NXknrmfpZW2ZhBogTV0nHVhaZwH9-JimqUp6d3lbb38/edit?usp=sharing 
 
